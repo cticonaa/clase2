@@ -1,0 +1,31 @@
+*{margin: 25px;}
+h1
+{
+    padding: 10px;
+    border: 15px;
+    border-style: ridge;
+    border-radius: 25px;
+    border-color: darkgoldenrod;
+    color: maroon;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+p
+{
+    color: darkblue;
+    text-align: justify;
+    background-color: crimson;
+    border-style: unset;
+}
+img
+{
+    width: 45%
+}
+body
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: darkgray;
+
+}
